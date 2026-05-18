@@ -1,0 +1,5 @@
+backend/.env
+backend/venv/
+backend/uploads/
+backend/outputs/
+frontend/node_modules/
